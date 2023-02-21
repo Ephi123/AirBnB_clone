@@ -59,6 +59,8 @@ section.filters button:hover {
     background-color: #FAFAFA;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
+    position: relative;
+    z-index: 1;
     
 }
 .popover h2 {
